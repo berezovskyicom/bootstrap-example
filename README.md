@@ -1,3 +1,3 @@
 # greenhub
-Bootstrap experience.
+Experience with bootstrap
 https://vlberezovsky.github.io/greenhub/
